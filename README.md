@@ -1,3 +1,6 @@
+## Bower Installation
+    bower install https://github.com/nunenuh/bootstrap-dropdown-hover.git --save
+
 Bootstrap 3 Dropdown On Hover
 ==========================
 
